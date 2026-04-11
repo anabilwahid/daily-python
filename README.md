@@ -7,3 +7,4 @@ This repo contains my Python practice codes and what I have been learning.
 - Creating a Class for musical instruments and making use of its objects (Introductory Class and Objects practice)
 - Class based planet models that demonstrates object-oriented concepts like attributes and methods.
 - A mini email system built with Python classes that demonstrates OOP concepts like object interaction, composition, and method delegation
+- A budget app that I tried making that demonstrates OOP concepts and all
